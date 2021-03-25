@@ -1,0 +1,5 @@
+  
+# incluye  < stdio.h >
+principal () {
+        printf ( " Hola mundo este es mi primer repositorio "
+}
